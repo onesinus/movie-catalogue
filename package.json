@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.7",
+    "serviceworker-webpack-plugin": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",
