@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "idb": "^6.1.2",
     "regenerator-runtime": "^0.13.7",
     "serviceworker-webpack-plugin": "^1.0.1"
   },
